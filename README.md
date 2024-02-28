@@ -1,5 +1,7 @@
 # Metasploit-100-
 
+bash setup.sh
+
 ## paylod:-
 
 
